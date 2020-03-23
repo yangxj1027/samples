@@ -11,7 +11,7 @@ var (
 )
 
 func init() {
-	globalnum = 10000000
+	globalnum = 100000000
 }
 
 func GetMD5(lurl string) string {
